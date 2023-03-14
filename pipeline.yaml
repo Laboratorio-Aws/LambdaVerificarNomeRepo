@@ -1,0 +1,3 @@
+DOTNET_WORKING_DIR: ./app/src/LambdaFunction
+
+TERRAFORM_WORKING_DIR: ./infra

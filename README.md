@@ -1,0 +1,1 @@
+# TemplateLambda-net6
